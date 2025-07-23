@@ -8,10 +8,10 @@ The dataset contains a total of 1,338 observations and 7 variables.
 
 ## Steps Performed:
 
--Data cleaning
--Encoding of categorical variables
--Feature engineering to enhance model performance
--Data visualization
+- Data cleaning
+- Encoding of categorical variables
+- Feature engineering to enhance model performance
+- Data visualization
 
 ## Model Performance Results
 
